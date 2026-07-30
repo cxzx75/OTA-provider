@@ -1,0 +1,18 @@
+{
+  "response": [
+    {
+      "maintainer": "cxzx75",
+      "oem": "Xiaomi",
+      "device": "rosemary",
+      "filename": "Lunaris-AOSP-rosemary-Community-3.12-VANILLA-2026073012.zip",
+      "download": "https://sourceforge.net/projects/cxzx-builds/files/rosemary/Lunaris-AOSP/3.12/2026.07.30/Lunaris-AOSP-rosemary-Community-3.12-VANILLA-2026073012.zip/download",
+      "timestamp": 1785416235,
+      "md5": "be00c41a90aa5771a3fe6473c99e8b2e",
+      "sha256": "26c9f6c71b75703970dd54a55d8590436451cec9a7ea765397a4101c7394db8d",
+      "size": 1571642234,
+      "version": "3.12",
+      "buildtype": "user",
+      "forum": "https://xdaforums.com/t/rom-android-16-qpr2-vanilla-lunaris-aosp-3-12-unofficial-2026-07-30.4796637"
+    }
+  ]
+}
