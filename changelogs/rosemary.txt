@@ -1,3 +1,16 @@
+===== 2026-08-18 =====
+ROM changes:
+ - August 2026 security patch
+ - Changed default power menu
+ - Made app launch animation faster
+ - Changed default wallpaper
+ - Added one-time hotspot data limit
+ - Redesigned material qs widget player ui
+ - Updated BCR to 3.6
+
+Kernel changes:
+ - Silenced some logspam
+
 ===== 2026-07-30 =====
 
 Initial release
