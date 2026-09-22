@@ -1,4 +1,12 @@
+===== 2026-09-22 =====
+
+ROM changes:
+ - September 2026 security patch
+ - Updated NOSAtmosphereEffect
+ - Updated BCR to 3.9
+
 ===== 2026-08-18 =====
+
 ROM changes:
  - August 2026 security patch
  - Changed default power menu
