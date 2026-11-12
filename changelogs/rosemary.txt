@@ -1,9 +1,20 @@
+===== 2026-11-12 =====
+
+ROM changes:
+ - Updated to 3.13
+ - November 2026 security patch
+ - Updated BCR to 3.11
+ - Added some blur optimization
+ - Full ROM changelog: https://raw.githubusercontent.com/Lunaris-AOSP/changelogs/a3adf700dac2195f9d85585c82e940d038d70933/README.md
+
+Kernel changes:
+ - Silenced logspam while recording videos
+
 ===== 2026-09-22 =====
 
 ROM changes:
  - September 2026 security patch
  - Updated NOSAtmosphereEffect
- - Updated BCR to 3.9
 
 ===== 2026-08-18 =====
 
@@ -14,7 +25,6 @@ ROM changes:
  - Changed default wallpaper
  - Added one-time hotspot data limit
  - Redesigned material qs widget player ui
- - Updated BCR to 3.6
 
 Kernel changes:
  - Silenced some logspam
